@@ -1,0 +1,20 @@
+﻿  PlayerBullet.cpp
+  Player.cpp
+c:\users\c00231308\desktop\jointproject 1tomlloyd\joint project 1\player.cpp(82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c00231308\desktop\jointproject 1tomlloyd\joint project 1\player.cpp(83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c00231308\desktop\jointproject 1tomlloyd\joint project 1\player.cpp(85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00231308\desktop\jointproject 1tomlloyd\joint project 1\player.cpp(96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  HealthPickUp.cpp
+c:\users\c00231308\desktop\jointproject 1tomlloyd\joint project 1\healthpickup.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameOver.cpp
+  Game.cpp
+c:\users\c00231308\desktop\jointproject 1tomlloyd\joint project 1\game.cpp(73): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EnemyHard.cpp
+c:\users\c00231308\desktop\jointproject 1tomlloyd\joint project 1\enemyhard.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EnemyEasy.cpp
+c:\users\c00231308\desktop\jointproject 1tomlloyd\joint project 1\enemyeasy.cpp(84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EnemyCrazy.cpp
+c:\users\c00231308\desktop\jointproject 1tomlloyd\joint project 1\enemycrazy.cpp(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Joint Project 1.vcxproj -> C:\Users\c00231308\Desktop\JointProject 1TomLloyd\Debug\Joint Project 1.exe
+  Joint Project 1.vcxproj -> C:\Users\c00231308\Desktop\JointProject 1TomLloyd\Debug\Joint Project 1.pdb (Partial PDB)
