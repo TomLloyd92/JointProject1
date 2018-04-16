@@ -1,6 +1,0 @@
-﻿  Player.cpp
-c:\users\c00231308\desktop\joint project 1 - tom lloyd\joint project 1 - tom lloyd\joint project 1\player.cpp(8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\c00231308\desktop\joint project 1 - tom lloyd\joint project 1 - tom lloyd\joint project 1\player.cpp(9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\c00231308\desktop\joint project 1 - tom lloyd\joint project 1 - tom lloyd\joint project 1\player.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Joint Project 1.vcxproj -> C:\Users\c00231308\Desktop\Joint Project 1 - Tom Lloyd\Joint Project 1 - Tom Lloyd\Debug\Joint Project 1.exe
-  Joint Project 1.vcxproj -> C:\Users\c00231308\Desktop\Joint Project 1 - Tom Lloyd\Joint Project 1 - Tom Lloyd\Debug\Joint Project 1.pdb (Partial PDB)
